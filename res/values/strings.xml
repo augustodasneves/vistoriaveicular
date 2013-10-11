@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VistoriaVeicular</string>
+    <string name="action_settings">Settings</string>
+    <string name="txtCadastro">Cadastro</string>
+    <string name="txtLista">Lista</string>
+    <string name="txtAvaliacao">Avaliação</string>
+    <string name="txtNomeProprietario">Nome do Proprietário</string>
+    <string name="txtCPF">CPF</string>
+    <string name="txtEndereco">Endereço</string>
+    <string name="txtPlaca">Placa do Veículo</string>
+    <string name="txtMarca">Marca/Modelo</string>
+    <string name="txtRegular">Regular</string>
+    <string name="txtIrregular">Irregular</string>
+    <string name="txtDadosUsuario">Dados do Usuário</string>
+    <string name="txtDadosVeiculo">Dados do Veículo</string>
+    <string name="txtAprovado">Aprovado</string>
+    <string name="txtReprovado">Reprovado</string>
+    <string name="txtEnviar">Enviar</string>
+    <string name="txtObservacao">Observação</string>
+    <string name="txtCancelar">Cancelar</string>
+    <string name="txtAvaliar">Avaliar</string>
+
+</resources>
